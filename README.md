@@ -2,8 +2,8 @@
 
 **Instituto Tecnológico de Durango** 
 **Carrera:** Ingeniería en Sistemas Computacionales  
-**Facilitador - ** Dr. José Gabriel Rodríguez Rivas  
-**Estudiante - ** Cristopher Joshua Reyes Gutiérrez
+**Facilitador -** Dr. José Gabriel Rodríguez Rivas  
+**Estudiante -** Cristopher Joshua Reyes Gutiérrez
 
 ---
 
