@@ -1,6 +1,6 @@
 # Machine Learning y Deep Learning 🧠💻
 
-**Instituto Tecnológico de Durango** \n
+**Instituto Tecnológico de Durango** 
 **Carrera:** Ingeniería en Sistemas Computacionales  
 **Facilitador -** Dr. José Gabriel Rodríguez Rivas  
 **Estudiante -** Cristopher Joshua Reyes Gutiérrez
