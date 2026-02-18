@@ -23,7 +23,7 @@ En esta unidad se abordan los fundamentos de manipulación de datos y preparaci�
 
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** Python 🐍
-* **Entorno:** Jupyter Notebook / Google Colab
+* **Entorno:**  Google Colab ✍️
 * **Librerías:** Pandas, NumPy, Matplotlib, Scikit-learn
 
 ---
