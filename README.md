@@ -43,7 +43,7 @@ Implementación de soluciones de Inteligencia Artificial para la resolución de 
 
 | Ejercicio | Título | Descripción | Estado |
 | :---: | :--- | :--- | :---: |
-| **App 01** | **Demanda Eléctrica** | Pronóstico de carga máxima (MW) en subestaciones eléctricas mediante Random Forest, orientado a la gestión preventiva de la red. | ✅ |
+| **Aplicación 01** | **Demanda Eléctrica** | Pronóstico de carga máxima (MW) en subestaciones eléctricas mediante Random Forest, orientado a la gestión preventiva de la red. | ✅ |
 
 ---
 
