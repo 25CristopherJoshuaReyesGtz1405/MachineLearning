@@ -2,14 +2,12 @@
 
 **Instituto Tecnológico de Durango** **Carrera:** Ingeniería en Sistemas Computacionales  
 **Facilitador:** Dr. José Gabriel Rodríguez Rivas  
-**Estudiante:** Cristopher Joshua Reyes Gutiérrez
+**Estudiante:** Cristopher Joshua Reyes Gutiérrez  
 
 ---
 
 ## 📋 Descripción del Repositorio
-Este repositorio constituye un portafolio técnico y académico que documenta la implementación de arquitecturas de aprendizaje supervisado. El contenido abarca desde la ingeniería de características y preprocesamiento avanzado hasta el despliegue de modelos de vanguardia para la resolución de problemas de regresión multivariable, con un énfasis particular en la robustez estadística y la generalización de modelos.
-
-
+Este repositorio constituye un portafolio técnico y académico que documenta la implementación de arquitecturas de aprendizaje supervisado. El contenido abarca desde la ingeniería de características y preprocesamiento avanzado hasta el despliegue de modelos de vanguardia para la resolución de problemas de regresión multivariable y clasificación binaria, con un énfasis particular en la robustez estadística, el manejo de datos desequilibrados y la generalización de modelos.
 
 ---
 
@@ -38,6 +36,19 @@ Desarrollo de modelos predictivos aplicados al análisis del mercado automotriz,
 
 ---
 
+### 📘 Unidad 3: Aprendizaje Supervisado (Métodos de Clasificación)
+Fase avanzada de modelado orientada a la categorización binaria de riesgo crediticio utilizando el ecosistema de datos de **Lending Club**. Se exploran arquitecturas para solventar el desequilibrio de clases y maximizar la protección del capital institucional.
+
+| Práctica | Título | Descripción | Estado |
+| :---: | :--- | :--- | :---: |
+| **02** | **Regresión Logística** | Clasificación probabilística aplicada a riesgo financiero. Incluye ajuste de umbrales de decisión (thresholds) para optimizar la detección de impagos. | ✅ |
+| **03** | **KNN (K-Nearest Neighbors)** | Clasificación basada en instancias y memoria. Se analiza el impacto crítico de la normalización de datos con `StandardScaler` en el cálculo de distancias euclidianas. | ✅ |
+| **04** | **Árboles de Decisión** | Implementación de clasificadores jerárquicos con enfoque en interpretabilidad. Optimización mediante `GridSearchCV` y control de sobreajuste mediante poda (*max-depth*). | ✅ |
+| **05** | **Random Forest** | Uso de clasificadores de bosque aleatorio para reducir la varianza. Se prioriza la métrica de *Recall* en la clase minoritaria para detectar eficazmente créditos no pagados. | ✅ |
+| **06** | **SVM (Support Vector Machines)** | Modelado de hiperplanos óptimos que maximizan el margen entre clases. Aplicación de kernels RBF y optimización del F2-score para penalizar falsos negativos. | ✅ |
+
+---
+
 ### 🚀 Casos de Aplicación en Ingeniería
 Implementación de soluciones de Inteligencia Artificial para la resolución de problemáticas en infraestructuras críticas.
 
@@ -52,7 +63,7 @@ Implementación de soluciones de Inteligencia Artificial para la resolución de 
 * **Entorno de Desarrollo:** Google Colab (Cloud Computing)
 * **Stack Analítico:** Pandas (Dataframes), NumPy (Álgebra Lineal)
 * **Modelado y ML:** Scikit-learn, XGBoost
-* **Visualización Técnica:** Matplotlib, Seaborn (KDE Plots, Residual Analysis, Boxplots)
+* **Visualización Técnica:** Matplotlib, Seaborn, Plotly (Radar Plots, ROC-AUC Curves, Feature Importance)
 
 ---
 *Repositorio actualizado automáticamente con fines académicos.*
