@@ -41,6 +41,7 @@ Fase avanzada de modelado orientada a la categorización binaria de riesgo credi
 
 | Práctica | Título | Descripción | Estado |
 | :---: | :--- | :--- | :---: |
+| **01** | **KNN (Clasificación de Frutas)** | Introducción a K-Nearest Neighbors para clasificación multiclase. Análisis de métricas globales, optimización iterativa del hiperparámetro `k` y extracción de la importancia de características mediante *Permutation Importance*. | ✅ |
 | **02** | **Regresión Logística** | Clasificación probabilística aplicada a riesgo financiero. Incluye ajuste de umbrales de decisión (thresholds) para optimizar la detección de impagos. | ✅ |
 | **03** | **KNN (K-Nearest Neighbors)** | Clasificación basada en instancias y memoria. Se analiza el impacto crítico de la normalización de datos con `StandardScaler` en el cálculo de distancias euclidianas. | ✅ |
 | **04** | **Árboles de Decisión** | Implementación de clasificadores jerárquicos con enfoque en interpretabilidad. Optimización mediante `GridSearchCV` y control de sobreajuste mediante poda (*max-depth*). | ✅ |
