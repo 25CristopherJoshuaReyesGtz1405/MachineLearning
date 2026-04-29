@@ -47,6 +47,19 @@ Fase avanzada de modelado orientada a la categorización binaria de riesgo credi
 | **04** | **Árboles de Decisión** | Implementación de clasificadores jerárquicos con enfoque en interpretabilidad. Optimización mediante `GridSearchCV` y control de sobreajuste mediante poda (*max-depth*). | ✅ |
 | **05** | **Random Forest** | Uso de clasificadores de bosque aleatorio para reducir la varianza. Se prioriza la métrica de *Recall* en la clase minoritaria para detectar eficazmente créditos no pagados. | ✅ |
 | **06** | **SVM (Support Vector Machines)** | Modelado de hiperplanos óptimos que maximizan el margen entre clases. Aplicación de kernels RBF y optimización del F2-score para penalizar falsos negativos. | ✅ |
+| 🏆 | **Proyecto Integrador: Titanic** | **Análisis Comparativo de Clasificadores:** Estudio exhaustivo de 5 algoritmos (LR, KNN, DT, RF, SVM) para predecir supervivencia. Incluye evaluación mediante Curvas ROC-AUC y una reflexión sociodemográfica sobre los patrones de extracción de IA. | ✅ |
+
+---
+
+## 📂 Estructura del Proyecto Final (Unidad III)
+
+Para este proyecto integrador, se implementó un flujo de trabajo de Ciencia de Datos (*Pipeline*) dividido en las siguientes fases técnicas:
+
+1. **Ingeniería de Características y EDA:** Análisis de supervivencia segmentado por género, clase socioeconómica y edad, identificando los vectores de influencia histórica.
+2. **Preprocesamiento Avanzado:** Imputación estadística de valores nulos, codificación binaria de variables categóricas y estandarización paramétrica para algoritmos de base geométrica.
+3. **Modelado Multiclasificador:** Entrenamiento y evaluación de cinco paradigmas de aprendizaje supervisado.
+4. **Optimización de Hiperparámetros:** Búsqueda en malla (*GridSearchCV*) para la maximización del rendimiento en modelos paramétricos.
+5. **Evaluación Comparativa:** Consolidación de métricas (Accuracy, Precision, Recall, F1-Score) y trazado unificado de Curvas ROC para determinar la robustez del área bajo la curva (AUC).
 
 ---
 
